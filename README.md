@@ -4,7 +4,7 @@ Hi 👋 My name is Efrain A. Davila
 Full Stack Developer
 --------------------
 
-A legally blind program who went from Walmart to Bootcamp, to Work. (As soon as I find that job.)
+A legally blind programmer who went from Walmart to Bootcamp, to Work. (As soon as I find that job.)
 
 * 🌍  I'm based in Tampa, FL
 * 🖥️  See my portfolio at [My Portfolio](http://efrainad.github.io/Portfolio/)
